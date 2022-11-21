@@ -1,6 +1,6 @@
 export const printHelp = (arg) => {
   const help = `
-  usage:\tnode bip39.js <checksum_length>
+  usage:\tnode src/index.js <checksum_length>
   
   \t<checksum_length> must be between 4 and 8
   
