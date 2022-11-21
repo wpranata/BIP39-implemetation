@@ -1,0 +1,16 @@
+{
+  "name": "bip39",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "random": "^4.0.3",
+    "sha256": "^0.2.0"
+  }
+}
