@@ -1,6 +1,6 @@
 export const printHelp = (arg) => {
   const help = `
-  usage:\tnode src/index.js <checksum_length>
+  usage:\tnode index.js <checksum_length>
   
   \t<checksum_length> must be between 4 and 8
   

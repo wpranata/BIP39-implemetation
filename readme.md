@@ -4,7 +4,7 @@ Usage
 =====
 
 ```
-node src/index.js <checksum_length>
+node index.js <checksum_length>
   
 <checksum_length> must be between 4 and 8
   
